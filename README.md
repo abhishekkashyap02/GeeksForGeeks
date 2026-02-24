@@ -124,16 +124,16 @@ Every problem folder has **exactly two files**:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│  📄  README.md  (inside every problem folder)                       │
+│  📄  README.md  (inside every problem folder) 📄                   │
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                     │
-│  ✦  Problem Title                                                   │
-│  ✦  Difficulty Level  (Basic / Easy / Medium / Hard)                │
-│  ✦  Full Problem Statement — exactly as given on GFG                │
-│  ✦  Examples → Input / Output / Explanation                         │
-│  ✦  Constraints                                                     │
-│  ✦  Approach — step-by-step logic used to solve it                  │
-│  ✦  Time Complexity  ·  Space Complexity                            │
+│  ✦✦  Problem Title                                                 │
+│  ✦✦ Difficulty Level  (Basic / Easy / Medium / Hard)               │
+│  ✦✦  Full Problem Statement — exactly as given on GFG              │
+│  ✦✦  Examples → Input / Output / Explanation                       │
+│  ✦✦  Constraints                                                   │
+│  ✦✦  Approach — step-by-step logic used to solve it                │
+│  ✦✦  Time Complexity  ·  Space Complexity                          │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
@@ -174,20 +174,7 @@ public:
 
 ---
 
-## 📈 Progress Tracker
 
-<div align="center">
-
-| Level | Progress | Status |
-|:-----:|:--------:|:------:|
-| 🟫 Basic | `████████████████████` 100% | ✅ Completed |
-| 🟢 Easy | `██████████████░░░░░░` 70% | 🔄 Ongoing |
-| 🟡 Medium | `████████░░░░░░░░░░░░` 40% | 🔄 Ongoing |
-| 🔴 Hard | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Coming Soon |
-
-**Total Commits : 67+** &nbsp;|&nbsp; **Platform : GeeksforGeeks** &nbsp;|&nbsp; **Language : C++**
-
-</div>
 
 ---
 
