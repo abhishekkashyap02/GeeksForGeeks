@@ -2,25 +2,22 @@
 
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--              HEADER — GFG STYLE               -->
-<!-- ╚══════════════════════════════════════════════╝ -->
+<!-- HEADER -->
+[![h1](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=╔══════════════════════════════════════════════════════════════════╗)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=14&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=800&lines=╔══════════════════════════════════════════════════════════════════════════════╗)](https://git.io/typing-svg)
+[![h2](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=║+++++++GEEKS+FOR+GEEKS+·+DSA+ARCHIVE+++++++║)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=14&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=800&lines=║+++++++++++++GEEKSFORGEEKS+·+DSA+SOLUTIONS+ARCHIVE+++++++++++++║)](https://git.io/typing-svg)
+[![h3](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=║+++++++++C%2B%2B+·+Basic+→+Easy+→+Medium+→+Hard+++++++++║)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=14&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=800&lines=║+++++Mastering+Data+Structures+%26+Algorithms+in+C%2B%2B+++++++++║)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=14&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=800&lines=╚══════════════════════════════════════════════════════════════════════════════╝)](https://git.io/typing-svg)
+[![h4](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=╚══════════════════════════════════════════════════════════════════╝)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=900&color=2F8D46&center=true&vCenter=true&width=650&lines=🟢+Solving+DSA+on+GeeksforGeeks+daily...;📂+Every+problem+→+documented+%26+committed;🧠+Basic+→+Easy+→+Medium+→+Hard;💻+Clean+C%2B%2B+%7C+No+shortcuts+%7C+Real+interviews)](https://git.io/typing-svg)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=2F8D46&center=true&vCenter=true&width=680&lines=💚+Solving+DSA+on+GeeksforGeeks+daily;📂+Every+problem+→+its+own+folder+%2B+solution;🧠+Basic+→+Easy+→+Medium+→+Hard;💻+Clean+C%2B%2B+%7C+No+shortcuts+%7C+Real+prep)](https://git.io/typing-svg)
 
 <br/>
 
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-kashyapabhishek-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/kashyapabhishek)
+[![GFG](https://img.shields.io/badge/GFG-kashyapabhishek-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/kashyapabhishek)
 [![GitHub](https://img.shields.io/badge/GitHub-abhishekkashyap02-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishekkashyap02)
 [![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Commits](https://img.shields.io/badge/Commits-67+-orange?style=for-the-badge&logo=git&logoColor=white)]()
@@ -31,16 +28,16 @@
 
 ## 🔰 About This Repository
 
-> **This is my personal DSA archive** — every problem I solve on [GeeksforGeeks](https://www.geeksforgeeks.org/profile/kashyapabhishek) is committed here with a clean C++ solution and its own documented README.
+> **My personal DSA problem-solving archive** — every problem I solve on [GeeksforGeeks](https://www.geeksforgeeks.org/profile/kashyapabhishek) lives here with a clean C++ solution and its own documented README.
 
-| 🏷️ | Details |
+| | Details |
 |:---|:--------|
 | 👤 **Author** | Abhishek Kashyap |
 | 🌐 **GFG Profile** | [geeksforgeeks.org/profile/kashyapabhishek](https://www.geeksforgeeks.org/profile/kashyapabhishek) |
-| 💻 **Language** | C++ (clean, readable, interview-ready) |
-| 🗂️ **Structure** | Every problem → its own folder → README + `.cpp` solution |
+| 💻 **Language** | C++ |
+| 🗂️ **Structure** | Every problem → its own folder → `README.md` + `.cpp` file |
 | 📶 **Levels** | Basic → Easy → Medium → Hard |
-| 🎯 **Mission** | Build a rock-solid DSA foundation through consistency |
+| 🎯 **Mission** | Build a rock-solid DSA foundation through daily consistency |
 
 ---
 
@@ -49,7 +46,7 @@
 ```
 📦 GeeksForGeeks/
 │
-├── 📁 Difficulty: Basic/              🟫  Warmup & fundamentals
+├── 📁 Difficulty: Basic/               🟫  Warmup & fundamentals
 │   ├── 📂 Addition of Two Numbers/
 │   │   ├── 📄 README.md
 │   │   └── 💻 addition-of-two-numbers.cpp
@@ -64,23 +61,23 @@
 │   ├── 📂 Sum of Digit is Palindrome or not/
 │   └── 📂 Sum of Natural Numbers/
 │
-├── 📁 Difficulty: Easy/               🟢  Core DSA problems
+├── 📁 Difficulty: Easy/                🟢  Core DSA problems
 │   └── 📂 [Problem Name]/
 │       ├── 📄 README.md
 │       └── 💻 solution.cpp
 │
-├── 📁 Difficulty: Medium/             🟡  Interview patterns
+├── 📁 Difficulty: Medium/              🟡  Interview-level patterns
 │   └── 📂 [Problem Name]/
 │       ├── 📄 README.md
 │       └── 💻 solution.cpp
 │
-└── 📁 Difficulty: Hard/              🔴  Advanced algorithms
-    └── 📂 [Problem Name]/
+└── 📁 Difficulty: Hard/               🔴  Advanced algorithms
+    └── 📂 [Problem Name]/            (coming soon 🚧)
         ├── 📄 README.md
         └── 💻 solution.cpp
 ```
 
-> 📌 **Each problem folder = 1 README (problem statement) + 1 `.cpp` (solution)**. No exceptions.
+> 📌 **Every single problem folder = 1 `README.md` (problem statement + approach) + 1 `.cpp` (solution code)**
 
 ---
 
@@ -88,12 +85,12 @@
 
 <div align="center">
 
-| 🏷️ Level | 🔢 Marker | What I Practice |
-|:--------:|:---------:|:----------------|
-| **Basic** | 🟫 | Loops, arrays, math, string basics |
-| **Easy** | 🟢 | Sorting, searching, stacks, linked lists |
-| **Medium** | 🟡 | Trees, DP, graphs, two pointers, sliding window |
-| **Hard** | 🔴 | Advanced DP, graph algorithms, segment trees, tries |
+| Level | Marker | What I Practice |
+|:-----:|:------:|:----------------|
+| **Basic** | 🟫 | Loops, arrays, math, strings — building intuition |
+| **Easy** | 🟢 | Sorting, searching, stacks, linked lists — pattern recognition |
+| **Medium** | 🟡 | Trees, DP, graphs, two pointers, sliding window — interview thinking |
+| **Hard** | 🔴 | Advanced DP, graph algorithms, segment trees — peak problem solving |
 
 </div>
 
@@ -121,49 +118,41 @@
 
 ## 📝 How Each Problem Is Documented
 
-<div align="center">
+Every problem folder has **exactly two files**:
+
+**`README.md`** — contains the full problem documentation:
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  📄  README.md  (inside every problem folder)                   │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  🔷 Problem Title & Difficulty Level                            │
-│  🔷 Full Problem Statement (exactly as on GFG)                  │
-│  🔷 Input / Output Examples with Explanation                    │
-│  🔷 Constraints                                                 │
-│  🔷 Approach — step-by-step logic to arrive at the solution     │
-│  🔷 Time Complexity  ·  Space Complexity                        │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│  📄  README.md  (inside every problem folder)                       │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  ✦  Problem Title                                                   │
+│  ✦  Difficulty Level  (Basic / Easy / Medium / Hard)                │
+│  ✦  Full Problem Statement — exactly as given on GFG                │
+│  ✦  Examples → Input / Output / Explanation                         │
+│  ✦  Constraints                                                     │
+│  ✦  Approach — step-by-step logic used to solve it                  │
+│  ✦  Time Complexity  ·  Space Complexity                            │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
-</div>
-
-And every `.cpp` solution file looks like this:
+**`.cpp`** — contains only the solution code (no extra comments, just clean code):
 
 ```cpp
-// ─────────────────────────────────────────────────────────────
-//  Problem    : Addition of Two Numbers
-//  Platform   : GeeksforGeeks
-//  Difficulty : Basic
-//  Approach   : Direct arithmetic — return a + b
-//  Time       : O(1)
-//  Space      : O(1)
-// ─────────────────────────────────────────────────────────────
-
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
-    long long addTwoNumbers(long long a, long long b) {
-        return a + b;
+    int factorial(int n) {
+        if(n == 0 || n == 1) {
+            return 1;
+        }
+        return n * factorial(n - 1);
     }
 };
 ```
 
-> ✅ Every file has problem name, difficulty, approach, **time & space complexity** — always.
+> 💡 The problem details, approach, complexity — everything is in the `README.md`. The `.cpp` has just the clean solution.
 
 ---
 
@@ -172,14 +161,14 @@ public:
 <div align="center">
 
 | Step | Action | What I Do |
-|:----:|:-------|:----------|
-| 1️⃣ | **Read** | Understand the problem, constraints, edge cases |
+|:----:|:------:|:----------|
+| 1️⃣ | **Read** | Understand the problem, constraints, edge cases fully |
 | 2️⃣ | **Think** | Identify the right pattern / data structure |
-| 3️⃣ | **Plan** | Brute force first → then optimize |
-| 4️⃣ | **Code** | Write clean, commented C++ |
-| 5️⃣ | **Review** | Test edge cases, verify time & space |
-| 6️⃣ | **Document** | Write `README.md` with full explanation |
-| 7️⃣ | **Commit** | Push to GitHub with a meaningful message |
+| 3️⃣ | **Plan** | Brute force first → then optimize step by step |
+| 4️⃣ | **Code** | Write clean C++ solution |
+| 5️⃣ | **Review** | Test edge cases, verify time & space complexity |
+| 6️⃣ | **Document** | Write `README.md` with full problem + approach |
+| 7️⃣ | **Commit** | Push to GitHub with a meaningful commit message |
 
 </div>
 
@@ -191,10 +180,10 @@ public:
 
 | Level | Progress | Status |
 |:-----:|:--------:|:------:|
-| 🟫 Basic | `████████████████████` | ✅ Active |
-| 🟢 Easy | `███████████████░░░░░` | 🔄 Ongoing |
-| 🟡 Medium | `█████████░░░░░░░░░░░` | 🔄 Ongoing |
-| 🔴 Hard | `███░░░░░░░░░░░░░░░░░` | 🔄 Ongoing |
+| 🟫 Basic | `████████████████████` 100% | ✅ Completed |
+| 🟢 Easy | `██████████████░░░░░░` 70% | 🔄 Ongoing |
+| 🟡 Medium | `████████░░░░░░░░░░░░` 40% | 🔄 Ongoing |
+| 🔴 Hard | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔜 Coming Soon |
 
 **Total Commits : 67+** &nbsp;|&nbsp; **Platform : GeeksforGeeks** &nbsp;|&nbsp; **Language : C++**
 
@@ -206,9 +195,9 @@ public:
 
 - [x] Start structured DSA journey on GeeksforGeeks
 - [x] Set up GitHub repo with difficulty-based folder structure
-- [x] Document every problem with its own README + solution file
+- [x] Document every problem with its own README + `.cpp` solution
 - [ ] Solve **300+ problems** across all difficulty levels
-- [ ] Cover every major DSA topic from Basic to Hard
+- [ ] Cover every major DSA topic — Basic through Hard
 - [ ] Build strong intuition for coding interview patterns
 - [ ] Achieve top **Institute Rank** on GFG at SRM
 - [ ] Land a role at a **product-based company** 💼
@@ -242,15 +231,15 @@ public:
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=14&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=800&lines=╔══════════════════════════════════════════════════════════════════════════════╗)](https://git.io/typing-svg)
+[![f1](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=╔══════════════════════════════════════════════════════════════════╗)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=14&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=800&lines=║++"The+expert+in+anything+was+once+a+beginner."++—+Helen+Hayes++║)](https://git.io/typing-svg)
+[![f2](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=║++"The+expert+in+anything+was+once+a+beginner."++║)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=14&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=800&lines=╚══════════════════════════════════════════════════════════════════════════════╝)](https://git.io/typing-svg)
+[![f3](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=╚══════════════════════════════════════════════════════════════════╝)](https://git.io/typing-svg)
 
 <br/>
 
-⭐ **If this repo inspires your DSA journey — drop a star!** ⭐
+⭐ **If this repo helps your DSA journey — drop a star!** ⭐
 
 <br/>
 
@@ -260,6 +249,6 @@ public:
 
 <br/>
 
-[![Back to Top](https://img.shields.io/badge/▲──────────────────Back%20to%20Top──────────────────▲-2F8D46?style=for-the-badge)](#top)
+[![Back to Top](https://img.shields.io/badge/▲─────────────Back%20to%20Top─────────────▲-2F8D46?style=for-the-badge)](#top)
 
 </div>
