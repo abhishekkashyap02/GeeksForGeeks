@@ -2,14 +2,21 @@
 
 <div align="center">
 
-<!-- HEADER -->
-[![h1](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=╔══════════════════════════════════════════════════════════════════╗)](https://git.io/typing-svg)
+<!-- HEADER — GFG Brand Style -->
 
-[![h2](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=║+++++++GEEKS+FOR+GEEKS+·+DSA+ARCHIVE+++++++║)](https://git.io/typing-svg)
+[![brand](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=GeeksforGeeks)](https://git.io/typing-svg)
 
-[![h3](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=║+++++++++C%2B%2B+·+Basic+→+Easy+→+Medium+→+Hard+++++++++║)](https://git.io/typing-svg)
+[![tagline](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=A+Computer+Science+Portal+for+Geeks)](https://git.io/typing-svg)
 
-[![h4](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=╚══════════════════════════════════════════════════════════════════╝)](https://git.io/typing-svg)
+<br/>
+
+[![divider1](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━)](https://git.io/typing-svg)
+
+[![repo-title](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=📂+DSA+Archive+·+C%2B%2B+Solutions)](https://git.io/typing-svg)
+
+[![levels](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=🟫+Basic+→+🟢+Easy+→+🟡+Medium+→+🔴+Hard)](https://git.io/typing-svg)
+
+[![divider2](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━)](https://git.io/typing-svg)
 
 <br/>
 
