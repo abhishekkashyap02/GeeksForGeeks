@@ -6,9 +6,9 @@
 
 [![brand](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=GeeksforGeeks)](https://git.io/typing-svg)
 
-[![tagline](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=A+Computer+Science+Portal+for+Geeks)](https://git.io/typing-svg)
+<img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GFG Logo" width="60"/>
 
-<br/>
+[![tagline](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=A+Computer+Science+Portal+for+Geeks)](https://git.io/typing-svg)
 
 [![divider1](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━)](https://git.io/typing-svg)
 
@@ -18,11 +18,7 @@
 
 [![divider2](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=1&pause=999999&color=2F8D46&center=true&vCenter=true&repeat=false&width=780&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━)](https://git.io/typing-svg)
 
-<br/>
-
 [![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=2F8D46&center=true&vCenter=true&width=680&lines=💚+Solving+DSA+on+GeeksforGeeks+daily;📂+Every+problem+→+its+own+folder+%2B+solution;🧠+Basic+→+Easy+→+Medium+→+Hard;💻+Clean+C%2B%2B+%7C+No+shortcuts+%7C+Real+prep)](https://git.io/typing-svg)
-
-<br/>
 
 [![GFG](https://img.shields.io/badge/GFG-kashyapabhishek-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/kashyapabhishek)
 [![GitHub](https://img.shields.io/badge/GitHub-abhishekkashyap02-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishekkashyap02)
